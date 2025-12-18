@@ -7,6 +7,7 @@ class Dog:
 if __name__ == "__main__":
     my_dog = Dog("Buddy")
     my_dog.bark() 
+## github先創repo
 # echo "# gitTest2" >> README.md
 # git init
 # git add README.md
