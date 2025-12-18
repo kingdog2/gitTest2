@@ -1,3 +1,4 @@
 name_dict = {"a": "Alice", "b": "Bob", "c": "Charlie"}
-
-print("衝突新增原本是空的****")
+print(name_dict)
+print("我沒載入新的所以衝突dawdawwadwad")
+print("我沒develop2載入新的所以衝突")
